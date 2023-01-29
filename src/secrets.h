@@ -1,2 +1,2 @@
 #define SECRET_SSID "PROCZAJNIK"
-#define SECRET_PASS "proherbata"
+#define SECRET_PASS "password123"
